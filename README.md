@@ -1,4 +1,3 @@
-# Linux-File-Permissions
 # File Permissions in Linux
 
 ## Project Description
